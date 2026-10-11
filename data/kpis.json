@@ -1,0 +1,67 @@
+{
+ "best_short_model": "Gradient Boosting",
+ "best_medium_model": "Prophet",
+ "forecast_accuracy_short_%": 87.19404597520767,
+ "forecast_accuracy_medium_%": 84.67753717234064,
+ "wape_short": 12.805954024792335,
+ "wape_medium": 15.322462827659358,
+ "mape_short": 13.268951251409655,
+ "mape_medium": 16.08938920315915,
+ "mae_improvement_vs_naive_short_%": 24.900990068457595,
+ "rev_err_7d_abs%": 9.10211282472237,
+ "rev_err_7d_bias%": -3.7319640101741047,
+ "rev_err_30d_abs%": 8.557376689110287,
+ "rev_err_30d_bias%": 0.441424762159639,
+ "rev_err_30d_abs_MA7%": 11.031583423898464,
+ "rev_err_30d_bias_MA7%": -9.88211510517104,
+ "lead_time_mape_prophet": {
+  "1-7": 14.51,
+  "8-14": 17.61,
+  "15-21": 16.62,
+  "22-30": 15.72
+ },
+ "lead_time_mape_short_by_day": {
+  "1": 13.47,
+  "2": 11.43,
+  "3": 12.79,
+  "4": 11.14,
+  "5": 14.6,
+  "6": 13.65,
+  "7": 15.81
+ },
+ "store_stability_wape_mean_std": {
+  "Astoria": {
+   "mean": 12.21,
+   "std": 6.31
+  },
+  "Hell's Kitchen": {
+   "mean": 13.7,
+   "std": 6.0
+  },
+  "Lower Manhattan": {
+   "mean": 13.48,
+   "std": 6.6
+  }
+ },
+ "peak_capture_%": 73.19854847071021,
+ "peak_error_%": 26.80145152928979,
+ "top3_hit_%": 58.48595848595848,
+ "hourly_80pct_coverage": 81.29426129426129,
+ "daily_interval_coverage_%": 79.25925925925927,
+ "july_total": 181022.98971849598,
+ "june_total": 166485.88,
+ "forecast_peak_hour": {
+  "Astoria": {
+   "hour": 12,
+   "yhat": 47.0032968646795
+  },
+  "Hell's Kitchen": {
+   "hour": 9,
+   "yhat": 38.45484666153339
+  },
+  "Lower Manhattan": {
+   "hour": 9,
+   "yhat": 36.13377143587709
+  }
+ }
+}

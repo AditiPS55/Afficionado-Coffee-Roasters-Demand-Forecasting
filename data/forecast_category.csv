@@ -1,0 +1,451 @@
+category,model,store_id,store_location,date,step,yhat
+Coffee,Prophet,3,Astoria,2025-07-01,1,293.47220952928654
+Coffee,Prophet,3,Astoria,2025-07-02,2,294.112058067154
+Coffee,Prophet,3,Astoria,2025-07-03,3,302.3195987187473
+Coffee,Prophet,3,Astoria,2025-07-04,4,291.25251641620315
+Coffee,Prophet,3,Astoria,2025-07-05,5,307.423177923414
+Coffee,Prophet,3,Astoria,2025-07-06,6,301.0981590387588
+Coffee,Prophet,3,Astoria,2025-07-07,7,266.79028180207035
+Coffee,Prophet,3,Astoria,2025-07-08,8,259.8729552076831
+Coffee,Prophet,3,Astoria,2025-07-09,9,260.3236569847607
+Coffee,Prophet,3,Astoria,2025-07-10,10,268.34205087561156
+Coffee,Prophet,3,Astoria,2025-07-11,11,257.08582181230804
+Coffee,Prophet,3,Astoria,2025-07-12,12,273.0673365587497
+Coffee,Prophet,3,Astoria,2025-07-13,13,266.5531709133466
+Coffee,Prophet,3,Astoria,2025-07-14,14,274.8660714342502
+Coffee,Prophet,3,Astoria,2025-07-15,15,267.9487448398664
+Coffee,Prophet,3,Astoria,2025-07-16,16,268.39944661692596
+Coffee,Prophet,3,Astoria,2025-07-17,17,276.4178405077586
+Coffee,Prophet,3,Astoria,2025-07-18,18,265.16161144447807
+Coffee,Prophet,3,Astoria,2025-07-19,19,281.14312619092624
+Coffee,Prophet,3,Astoria,2025-07-20,20,274.6289605455276
+Coffee,Prophet,3,Astoria,2025-07-21,21,282.941861066412
+Coffee,Prophet,3,Astoria,2025-07-22,22,276.02453447200327
+Coffee,Prophet,3,Astoria,2025-07-23,23,276.4752362491355
+Coffee,Prophet,3,Astoria,2025-07-24,24,284.493630139939
+Coffee,Prophet,3,Astoria,2025-07-25,25,273.2374010766504
+Coffee,Prophet,3,Astoria,2025-07-26,26,289.21891582310275
+Coffee,Prophet,3,Astoria,2025-07-27,27,282.70475017768393
+Coffee,Prophet,3,Astoria,2025-07-28,28,291.0176506986132
+Coffee,Prophet,3,Astoria,2025-07-29,29,284.10032410418665
+Coffee,Prophet,3,Astoria,2025-07-30,30,284.55102588124936
+Coffee,Prophet,5,Lower Manhattan,2025-07-01,1,263.0079488395469
+Coffee,Prophet,5,Lower Manhattan,2025-07-02,2,262.2599852559758
+Coffee,Prophet,5,Lower Manhattan,2025-07-03,3,270.81763667273276
+Coffee,Prophet,5,Lower Manhattan,2025-07-04,4,264.68596621579877
+Coffee,Prophet,5,Lower Manhattan,2025-07-05,5,259.2652405595871
+Coffee,Prophet,5,Lower Manhattan,2025-07-06,6,265.60415940597346
+Coffee,Prophet,5,Lower Manhattan,2025-07-07,7,261.4716826009621
+Coffee,Prophet,5,Lower Manhattan,2025-07-08,8,265.22728564871306
+Coffee,Prophet,5,Lower Manhattan,2025-07-09,9,264.45742461946713
+Coffee,Prophet,5,Lower Manhattan,2025-07-10,10,272.9931785905787
+Coffee,Prophet,5,Lower Manhattan,2025-07-11,11,266.8396106879695
+Coffee,Prophet,5,Lower Manhattan,2025-07-12,12,261.3969875861291
+Coffee,Prophet,5,Lower Manhattan,2025-07-13,13,267.71400898684107
+Coffee,Prophet,5,Lower Manhattan,2025-07-14,14,268.94453256959497
+Coffee,Prophet,5,Lower Manhattan,2025-07-15,15,272.7001356173471
+Coffee,Prophet,5,Lower Manhattan,2025-07-16,16,271.9302745881077
+Coffee,Prophet,5,Lower Manhattan,2025-07-17,17,280.4660285592236
+Coffee,Prophet,5,Lower Manhattan,2025-07-18,18,274.31246065660156
+Coffee,Prophet,5,Lower Manhattan,2025-07-19,19,268.8698375547591
+Coffee,Prophet,5,Lower Manhattan,2025-07-20,20,275.1868589554832
+Coffee,Prophet,5,Lower Manhattan,2025-07-21,21,276.4173825382283
+Coffee,Prophet,5,Lower Manhattan,2025-07-22,22,280.1729855859813
+Coffee,Prophet,5,Lower Manhattan,2025-07-23,23,279.4031245567409
+Coffee,Prophet,5,Lower Manhattan,2025-07-24,24,287.9388785278555
+Coffee,Prophet,5,Lower Manhattan,2025-07-25,25,281.78531062526946
+Coffee,Prophet,5,Lower Manhattan,2025-07-26,26,276.34268752338903
+Coffee,Prophet,5,Lower Manhattan,2025-07-27,27,282.6597089241126
+Coffee,Prophet,5,Lower Manhattan,2025-07-28,28,283.8902325068686
+Coffee,Prophet,5,Lower Manhattan,2025-07-29,29,287.64583555461536
+Coffee,Prophet,5,Lower Manhattan,2025-07-30,30,286.8759745253665
+Coffee,Prophet,8,Hell's Kitchen,2025-07-01,1,272.4316198854634
+Coffee,Prophet,8,Hell's Kitchen,2025-07-02,2,274.48714558320705
+Coffee,Prophet,8,Hell's Kitchen,2025-07-03,3,271.7681686258944
+Coffee,Prophet,8,Hell's Kitchen,2025-07-04,4,281.1531076046881
+Coffee,Prophet,8,Hell's Kitchen,2025-07-05,5,270.10504101704777
+Coffee,Prophet,8,Hell's Kitchen,2025-07-06,6,277.1516451664925
+Coffee,Prophet,8,Hell's Kitchen,2025-07-07,7,248.81433413037038
+Coffee,Prophet,8,Hell's Kitchen,2025-07-08,8,249.61417386596122
+Coffee,Prophet,8,Hell's Kitchen,2025-07-09,9,251.58023066137588
+Coffee,Prophet,8,Hell's Kitchen,2025-07-10,10,248.77178480171523
+Coffee,Prophet,8,Hell's Kitchen,2025-07-11,11,258.0672548781644
+Coffee,Prophet,8,Hell's Kitchen,2025-07-12,12,246.9297193881734
+Coffee,Prophet,8,Hell's Kitchen,2025-07-13,13,253.8868546352502
+Coffee,Prophet,8,Hell's Kitchen,2025-07-14,14,254.22983736827612
+Coffee,Prophet,8,Hell's Kitchen,2025-07-15,15,255.02967710385948
+Coffee,Prophet,8,Hell's Kitchen,2025-07-16,16,256.9957338992888
+Coffee,Prophet,8,Hell's Kitchen,2025-07-17,17,254.187288039636
+Coffee,Prophet,8,Hell's Kitchen,2025-07-18,18,263.48275811607004
+Coffee,Prophet,8,Hell's Kitchen,2025-07-19,19,252.34522262608039
+Coffee,Prophet,8,Hell's Kitchen,2025-07-20,20,259.3023578731542
+Coffee,Prophet,8,Hell's Kitchen,2025-07-21,21,259.6453406061915
+Coffee,Prophet,8,Hell's Kitchen,2025-07-22,22,260.44518034178753
+Coffee,Prophet,8,Hell's Kitchen,2025-07-23,23,262.4112371371769
+Coffee,Prophet,8,Hell's Kitchen,2025-07-24,24,259.602791277542
+Coffee,Prophet,8,Hell's Kitchen,2025-07-25,25,268.8982613539854
+Coffee,Prophet,8,Hell's Kitchen,2025-07-26,26,257.7607258639873
+Coffee,Prophet,8,Hell's Kitchen,2025-07-27,27,264.7178611110806
+Coffee,Prophet,8,Hell's Kitchen,2025-07-28,28,265.06084384407785
+Coffee,Prophet,8,Hell's Kitchen,2025-07-29,29,265.8606835796858
+Coffee,Prophet,8,Hell's Kitchen,2025-07-30,30,267.8267403751133
+Tea,Prophet,3,Astoria,2025-07-01,1,239.54372635835833
+Tea,Prophet,3,Astoria,2025-07-02,2,243.1110395486228
+Tea,Prophet,3,Astoria,2025-07-03,3,243.50622948207933
+Tea,Prophet,3,Astoria,2025-07-04,4,239.67880413088102
+Tea,Prophet,3,Astoria,2025-07-05,5,247.75927364124462
+Tea,Prophet,3,Astoria,2025-07-06,6,248.89756697061117
+Tea,Prophet,3,Astoria,2025-07-07,7,207.49543606893346
+Tea,Prophet,3,Astoria,2025-07-08,8,209.95693981088223
+Tea,Prophet,3,Astoria,2025-07-09,9,213.36206703564443
+Tea,Prophet,3,Astoria,2025-07-10,10,213.59507100360992
+Tea,Prophet,3,Astoria,2025-07-11,11,209.60545968692205
+Tea,Prophet,3,Astoria,2025-07-12,12,217.52374323180402
+Tea,Prophet,3,Astoria,2025-07-13,13,218.49985059569258
+Tea,Prophet,3,Astoria,2025-07-14,14,213.94113894666162
+Tea,Prophet,3,Astoria,2025-07-15,15,216.40264268860352
+Tea,Prophet,3,Astoria,2025-07-16,16,219.80776991336054
+Tea,Prophet,3,Astoria,2025-07-17,17,220.04077388132188
+Tea,Prophet,3,Astoria,2025-07-18,18,216.05116256464044
+Tea,Prophet,3,Astoria,2025-07-19,19,223.9694461095228
+Tea,Prophet,3,Astoria,2025-07-20,20,224.94555347340784
+Tea,Prophet,3,Astoria,2025-07-21,21,220.38684182437268
+Tea,Prophet,3,Astoria,2025-07-22,22,222.84834556631773
+Tea,Prophet,3,Astoria,2025-07-23,23,226.25347279108078
+Tea,Prophet,3,Astoria,2025-07-24,24,226.48647675903413
+Tea,Prophet,3,Astoria,2025-07-25,25,222.49686544235092
+Tea,Prophet,3,Astoria,2025-07-26,26,230.4151489872415
+Tea,Prophet,3,Astoria,2025-07-27,27,231.3912563511145
+Tea,Prophet,3,Astoria,2025-07-28,28,226.83254470209243
+Tea,Prophet,3,Astoria,2025-07-29,29,229.29404844403908
+Tea,Prophet,3,Astoria,2025-07-30,30,232.69917566878786
+Tea,Prophet,5,Lower Manhattan,2025-07-01,1,198.1398960660242
+Tea,Prophet,5,Lower Manhattan,2025-07-02,2,190.90569068408703
+Tea,Prophet,5,Lower Manhattan,2025-07-03,3,201.548339273228
+Tea,Prophet,5,Lower Manhattan,2025-07-04,4,193.18471353276738
+Tea,Prophet,5,Lower Manhattan,2025-07-05,5,195.7370368419959
+Tea,Prophet,5,Lower Manhattan,2025-07-06,6,204.35510667259592
+Tea,Prophet,5,Lower Manhattan,2025-07-07,7,185.0675339962894
+Tea,Prophet,5,Lower Manhattan,2025-07-08,8,190.4086244130461
+Tea,Prophet,5,Lower Manhattan,2025-07-09,9,183.14543007386385
+Tea,Prophet,5,Lower Manhattan,2025-07-10,10,193.75908970577362
+Tea,Prophet,5,Lower Manhattan,2025-07-11,11,185.3664750080565
+Tea,Prophet,5,Lower Manhattan,2025-07-12,12,187.88980936011106
+Tea,Prophet,5,Lower Manhattan,2025-07-13,13,196.47889023347395
+Tea,Prophet,5,Lower Manhattan,2025-07-14,14,188.43999346546107
+Tea,Prophet,5,Lower Manhattan,2025-07-15,15,193.78108388220502
+Tea,Prophet,5,Lower Manhattan,2025-07-16,16,186.51788954302836
+Tea,Prophet,5,Lower Manhattan,2025-07-17,17,197.13154917495112
+Tea,Prophet,5,Lower Manhattan,2025-07-18,18,188.73893447722105
+Tea,Prophet,5,Lower Manhattan,2025-07-19,19,191.26226882926508
+Tea,Prophet,5,Lower Manhattan,2025-07-20,20,199.85134970264212
+Tea,Prophet,5,Lower Manhattan,2025-07-21,21,191.81245293461157
+Tea,Prophet,5,Lower Manhattan,2025-07-22,22,197.1535433513593
+Tea,Prophet,5,Lower Manhattan,2025-07-23,23,189.89034901218122
+Tea,Prophet,5,Lower Manhattan,2025-07-24,24,200.50400864410295
+Tea,Prophet,5,Lower Manhattan,2025-07-25,25,192.11139394639798
+Tea,Prophet,5,Lower Manhattan,2025-07-26,26,194.63472829841908
+Tea,Prophet,5,Lower Manhattan,2025-07-27,27,203.2238091717788
+Tea,Prophet,5,Lower Manhattan,2025-07-28,28,195.18491240378216
+Tea,Prophet,5,Lower Manhattan,2025-07-29,29,200.5260028205182
+Tea,Prophet,5,Lower Manhattan,2025-07-30,30,193.26280848134124
+Tea,Prophet,8,Hell's Kitchen,2025-07-01,1,207.03266771362976
+Tea,Prophet,8,Hell's Kitchen,2025-07-02,2,210.33410902318437
+Tea,Prophet,8,Hell's Kitchen,2025-07-03,3,211.46928627626434
+Tea,Prophet,8,Hell's Kitchen,2025-07-04,4,213.54429470326232
+Tea,Prophet,8,Hell's Kitchen,2025-07-05,5,208.9755370888712
+Tea,Prophet,8,Hell's Kitchen,2025-07-06,6,211.3754549641951
+Tea,Prophet,8,Hell's Kitchen,2025-07-07,7,179.07082556799085
+Tea,Prophet,8,Hell's Kitchen,2025-07-08,8,172.22883933311152
+Tea,Prophet,8,Hell's Kitchen,2025-07-09,9,175.4678725376583
+Tea,Prophet,8,Hell's Kitchen,2025-07-10,10,176.54064168575218
+Tea,Prophet,8,Hell's Kitchen,2025-07-11,11,178.55324200775124
+Tea,Prophet,8,Hell's Kitchen,2025-07-12,12,173.92207628834112
+Tea,Prophet,8,Hell's Kitchen,2025-07-13,13,176.25958605864372
+Tea,Prophet,8,Hell's Kitchen,2025-07-14,14,181.12558095643223
+Tea,Prophet,8,Hell's Kitchen,2025-07-15,15,174.28359472154244
+Tea,Prophet,8,Hell's Kitchen,2025-07-16,16,177.52262792609528
+Tea,Prophet,8,Hell's Kitchen,2025-07-17,17,178.5953970741835
+Tea,Prophet,8,Hell's Kitchen,2025-07-18,18,180.60799739618042
+Tea,Prophet,8,Hell's Kitchen,2025-07-19,19,175.97683167677866
+Tea,Prophet,8,Hell's Kitchen,2025-07-20,20,178.31434144707924
+Tea,Prophet,8,Hell's Kitchen,2025-07-21,21,183.18033634486864
+Tea,Prophet,8,Hell's Kitchen,2025-07-22,22,176.3383501099777
+Tea,Prophet,8,Hell's Kitchen,2025-07-23,23,179.57738331453422
+Tea,Prophet,8,Hell's Kitchen,2025-07-24,24,180.6501524626226
+Tea,Prophet,8,Hell's Kitchen,2025-07-25,25,182.66275278462703
+Tea,Prophet,8,Hell's Kitchen,2025-07-26,26,178.03158706521617
+Tea,Prophet,8,Hell's Kitchen,2025-07-27,27,180.36909683552804
+Tea,Prophet,8,Hell's Kitchen,2025-07-28,28,185.23509173329532
+Tea,Prophet,8,Hell's Kitchen,2025-07-29,29,178.39310549840863
+Tea,Prophet,8,Hell's Kitchen,2025-07-30,30,181.63213870295644
+Bakery,Prophet,3,Astoria,2025-07-01,1,65.32821202051105
+Bakery,Prophet,3,Astoria,2025-07-02,2,63.60449583080229
+Bakery,Prophet,3,Astoria,2025-07-03,3,69.04659640115065
+Bakery,Prophet,3,Astoria,2025-07-04,4,64.72284649031215
+Bakery,Prophet,3,Astoria,2025-07-05,5,66.64516115104378
+Bakery,Prophet,3,Astoria,2025-07-06,6,69.52295359818352
+Bakery,Prophet,3,Astoria,2025-07-07,7,60.71265933678797
+Bakery,Prophet,3,Astoria,2025-07-08,8,61.81557939216712
+Bakery,Prophet,3,Astoria,2025-07-09,9,60.07539808100053
+Bakery,Prophet,3,Astoria,2025-07-10,10,65.50103352990908
+Bakery,Prophet,3,Astoria,2025-07-11,11,61.1608184976148
+Bakery,Prophet,3,Astoria,2025-07-12,12,63.06666803692316
+Bakery,Prophet,3,Astoria,2025-07-13,13,65.9279953626176
+Bakery,Prophet,3,Astoria,2025-07-14,14,62.13285069901615
+Bakery,Prophet,3,Astoria,2025-07-15,15,63.235770754386756
+Bakery,Prophet,3,Astoria,2025-07-16,16,61.49558944322193
+Bakery,Prophet,3,Astoria,2025-07-17,17,66.9212248921335
+Bakery,Prophet,3,Astoria,2025-07-18,18,62.58100985983523
+Bakery,Prophet,3,Astoria,2025-07-19,19,64.48685939914031
+Bakery,Prophet,3,Astoria,2025-07-20,20,67.34818672483992
+Bakery,Prophet,3,Astoria,2025-07-21,21,63.55304206122994
+Bakery,Prophet,3,Astoria,2025-07-22,22,64.6559621166017
+Bakery,Prophet,3,Astoria,2025-07-23,23,62.9157808054415
+Bakery,Prophet,3,Astoria,2025-07-24,24,68.34141625434992
+Bakery,Prophet,3,Astoria,2025-07-25,25,64.0012012220621
+Bakery,Prophet,3,Astoria,2025-07-26,26,65.90705076135745
+Bakery,Prophet,3,Astoria,2025-07-27,27,68.76837808704843
+Bakery,Prophet,3,Astoria,2025-07-28,28,64.97323342345399
+Bakery,Prophet,3,Astoria,2025-07-29,29,66.07615347882134
+Bakery,Prophet,3,Astoria,2025-07-30,30,64.33597216765234
+Bakery,Prophet,5,Lower Manhattan,2025-07-01,1,69.3583271148821
+Bakery,Prophet,5,Lower Manhattan,2025-07-02,2,65.06529199843084
+Bakery,Prophet,5,Lower Manhattan,2025-07-03,3,72.03179178104065
+Bakery,Prophet,5,Lower Manhattan,2025-07-04,4,66.47085222824641
+Bakery,Prophet,5,Lower Manhattan,2025-07-05,5,67.84222419775199
+Bakery,Prophet,5,Lower Manhattan,2025-07-06,6,66.30190483626542
+Bakery,Prophet,5,Lower Manhattan,2025-07-07,7,67.92590671652113
+Bakery,Prophet,5,Lower Manhattan,2025-07-08,8,71.36658386124974
+Bakery,Prophet,5,Lower Manhattan,2025-07-09,9,67.07460547193921
+Bakery,Prophet,5,Lower Manhattan,2025-07-10,10,74.04216198170217
+Bakery,Prophet,5,Lower Manhattan,2025-07-11,11,68.48227915604595
+Bakery,Prophet,5,Lower Manhattan,2025-07-12,12,69.85470785272214
+Bakery,Prophet,5,Lower Manhattan,2025-07-13,13,68.31544521839153
+Bakery,Prophet,5,Lower Manhattan,2025-07-14,14,69.64412448541276
+Bakery,Prophet,5,Lower Manhattan,2025-07-15,15,73.0848016301527
+Bakery,Prophet,5,Lower Manhattan,2025-07-16,16,68.79282324083862
+Bakery,Prophet,5,Lower Manhattan,2025-07-17,17,75.76037975060503
+Bakery,Prophet,5,Lower Manhattan,2025-07-18,18,70.20049692494688
+Bakery,Prophet,5,Lower Manhattan,2025-07-19,19,71.57292562161692
+Bakery,Prophet,5,Lower Manhattan,2025-07-20,20,70.03366298729739
+Bakery,Prophet,5,Lower Manhattan,2025-07-21,21,71.36234225430951
+Bakery,Prophet,5,Lower Manhattan,2025-07-22,22,74.8030193990417
+Bakery,Prophet,5,Lower Manhattan,2025-07-23,23,70.51104100974435
+Bakery,Prophet,5,Lower Manhattan,2025-07-24,24,77.47859751950519
+Bakery,Prophet,5,Lower Manhattan,2025-07-25,25,71.91871469385731
+Bakery,Prophet,5,Lower Manhattan,2025-07-26,26,73.29114339051166
+Bakery,Prophet,5,Lower Manhattan,2025-07-27,27,71.75188075618308
+Bakery,Prophet,5,Lower Manhattan,2025-07-28,28,73.08056002322519
+Bakery,Prophet,5,Lower Manhattan,2025-07-29,29,76.5212371679447
+Bakery,Prophet,5,Lower Manhattan,2025-07-30,30,72.22925877863344
+Bakery,Prophet,8,Hell's Kitchen,2025-07-01,1,43.200890433757955
+Bakery,Prophet,8,Hell's Kitchen,2025-07-02,2,47.778703664183254
+Bakery,Prophet,8,Hell's Kitchen,2025-07-03,3,43.84648255819062
+Bakery,Prophet,8,Hell's Kitchen,2025-07-04,4,45.15452508162302
+Bakery,Prophet,8,Hell's Kitchen,2025-07-05,5,45.72267339344063
+Bakery,Prophet,8,Hell's Kitchen,2025-07-06,6,44.86405687648819
+Bakery,Prophet,8,Hell's Kitchen,2025-07-07,7,67.44322001868359
+Bakery,Prophet,8,Hell's Kitchen,2025-07-08,8,64.7222335695296
+Bakery,Prophet,8,Hell's Kitchen,2025-07-09,9,69.34965024528776
+Bakery,Prophet,8,Hell's Kitchen,2025-07-10,10,65.46703258463155
+Bakery,Prophet,8,Hell's Kitchen,2025-07-11,11,66.82467855340724
+Bakery,Prophet,8,Hell's Kitchen,2025-07-12,12,67.44243031053946
+Bakery,Prophet,8,Hell's Kitchen,2025-07-13,13,66.63341723891904
+Bakery,Prophet,8,Hell's Kitchen,2025-07-14,14,68.55607962962881
+Bakery,Prophet,8,Hell's Kitchen,2025-07-15,15,65.83509318047246
+Bakery,Prophet,8,Hell's Kitchen,2025-07-16,16,70.4625098562291
+Bakery,Prophet,8,Hell's Kitchen,2025-07-17,17,66.57989219556549
+Bakery,Prophet,8,Hell's Kitchen,2025-07-18,18,67.93753816434683
+Bakery,Prophet,8,Hell's Kitchen,2025-07-19,19,68.55528992148561
+Bakery,Prophet,8,Hell's Kitchen,2025-07-20,20,67.74627684985828
+Bakery,Prophet,8,Hell's Kitchen,2025-07-21,21,69.66893924057254
+Bakery,Prophet,8,Hell's Kitchen,2025-07-22,22,66.94795279141697
+Bakery,Prophet,8,Hell's Kitchen,2025-07-23,23,71.57536946717482
+Bakery,Prophet,8,Hell's Kitchen,2025-07-24,24,67.69275180650894
+Bakery,Prophet,8,Hell's Kitchen,2025-07-25,25,69.05039777528549
+Bakery,Prophet,8,Hell's Kitchen,2025-07-26,26,69.66814953243177
+Bakery,Prophet,8,Hell's Kitchen,2025-07-27,27,68.85913646080905
+Bakery,Prophet,8,Hell's Kitchen,2025-07-28,28,70.78179885150898
+Bakery,Prophet,8,Hell's Kitchen,2025-07-29,29,68.06081240235983
+Bakery,Prophet,8,Hell's Kitchen,2025-07-30,30,72.68822907811183
+Drinking Chocolate,Prophet,3,Astoria,2025-07-01,1,65.35779556091367
+Drinking Chocolate,Prophet,3,Astoria,2025-07-02,2,66.3534924100686
+Drinking Chocolate,Prophet,3,Astoria,2025-07-03,3,67.01836161075589
+Drinking Chocolate,Prophet,3,Astoria,2025-07-04,4,64.69919151976018
+Drinking Chocolate,Prophet,3,Astoria,2025-07-05,5,66.2533035499629
+Drinking Chocolate,Prophet,3,Astoria,2025-07-06,6,67.22652724700764
+Drinking Chocolate,Prophet,3,Astoria,2025-07-07,7,50.20996019750491
+Drinking Chocolate,Prophet,3,Astoria,2025-07-08,8,53.57553811737518
+Drinking Chocolate,Prophet,3,Astoria,2025-07-09,9,54.520456080419194
+Drinking Chocolate,Prophet,3,Astoria,2025-07-10,10,55.13454639500021
+Drinking Chocolate,Prophet,3,Astoria,2025-07-11,11,52.764597417896304
+Drinking Chocolate,Prophet,3,Astoria,2025-07-12,12,54.26793056200565
+Drinking Chocolate,Prophet,3,Astoria,2025-07-13,13,55.19037537295158
+Drinking Chocolate,Prophet,3,Astoria,2025-07-14,14,51.60868308717675
+Drinking Chocolate,Prophet,3,Astoria,2025-07-15,15,54.97426100704624
+Drinking Chocolate,Prophet,3,Astoria,2025-07-16,16,55.919178970089476
+Drinking Chocolate,Prophet,3,Astoria,2025-07-17,17,56.53326928467161
+Drinking Chocolate,Prophet,3,Astoria,2025-07-18,18,54.16332030756676
+Drinking Chocolate,Prophet,3,Astoria,2025-07-19,19,55.66665345167386
+Drinking Chocolate,Prophet,3,Astoria,2025-07-20,20,56.58909826262023
+Drinking Chocolate,Prophet,3,Astoria,2025-07-21,21,53.007405976843934
+Drinking Chocolate,Prophet,3,Astoria,2025-07-22,22,56.372983896717315
+Drinking Chocolate,Prophet,3,Astoria,2025-07-23,23,57.31790185975651
+Drinking Chocolate,Prophet,3,Astoria,2025-07-24,24,57.93199217433711
+Drinking Chocolate,Prophet,3,Astoria,2025-07-25,25,55.56204319723711
+Drinking Chocolate,Prophet,3,Astoria,2025-07-26,26,57.065376341342066
+Drinking Chocolate,Prophet,3,Astoria,2025-07-27,27,57.98782115228298
+Drinking Chocolate,Prophet,3,Astoria,2025-07-28,28,54.40612886651437
+Drinking Chocolate,Prophet,3,Astoria,2025-07-29,29,57.77170678638839
+Drinking Chocolate,Prophet,3,Astoria,2025-07-30,30,58.71662474942575
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-01,1,49.70790293599628
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-02,2,47.50455344790164
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-03,3,51.79699349789984
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-04,4,49.08871885918197
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-05,5,48.96504264425172
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-06,6,51.46577468564309
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-07,7,46.55513562630224
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-08,8,47.47470032907206
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-09,9,45.25651308823268
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-10,10,49.53411538549561
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-11,11,46.81100299403059
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-12,12,46.672489026378166
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-13,13,49.15838331502706
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-14,14,47.885431799169716
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-15,15,48.80499650193608
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-16,16,46.586809261098956
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-17,17,50.864411558365354
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-18,18,48.141299166895706
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-19,19,48.00278519924063
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-20,20,50.48867948789497
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-21,21,49.21572797203161
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-22,22,50.13529267479774
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-23,23,47.91710543396293
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-24,24,52.19470773122853
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-25,25,49.471595339768825
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-26,26,49.333081372103074
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-27,27,51.81897566075333
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-28,28,50.5460241449001
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-29,29,51.465588847661785
+Drinking Chocolate,Prophet,5,Lower Manhattan,2025-07-30,30,49.24740160682413
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-01,1,55.75255659857075
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-02,2,55.777397206869956
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-03,3,56.48999252058942
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-04,4,56.44531072831913
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-05,5,55.95733433811821
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-06,6,58.271842653103626
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-07,7,47.562496176291994
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-08,8,48.30004649109043
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-09,9,48.28706115052177
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-10,10,48.961830515374174
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-11,11,48.87932277423442
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-12,12,48.35352043517315
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-13,13,50.63020280128857
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-14,14,48.96509747263591
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-15,15,49.70264778742989
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-16,16,49.689662446863714
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-17,17,50.36443181171813
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-18,18,50.281924070575336
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-19,19,49.756121731513375
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-20,20,52.03280409762924
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-21,21,50.367698768975785
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-22,22,51.10524908377285
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-23,23,51.09226374320086
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-24,24,51.7670331080569
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-25,25,51.684525366918315
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-26,26,51.1587230278536
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-27,27,53.435405393969084
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-28,28,51.77030006531416
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-29,29,52.50785038011231
+Drinking Chocolate,Prophet,8,Hell's Kitchen,2025-07-30,30,52.49486503954438
+Flavours,Prophet,3,Astoria,2025-07-01,1,0.8552474090158142
+Flavours,Prophet,3,Astoria,2025-07-02,2,0.0
+Flavours,Prophet,3,Astoria,2025-07-03,3,0.0
+Flavours,Prophet,3,Astoria,2025-07-04,4,0.2041561354960051
+Flavours,Prophet,3,Astoria,2025-07-05,5,0.1330227151072253
+Flavours,Prophet,3,Astoria,2025-07-06,6,0.0
+Flavours,Prophet,3,Astoria,2025-07-07,7,23.192368109355726
+Flavours,Prophet,3,Astoria,2025-07-08,8,22.085136937847277
+Flavours,Prophet,3,Astoria,2025-07-09,9,20.651143622672542
+Flavours,Prophet,3,Astoria,2025-07-10,10,20.236161374194623
+Flavours,Prophet,3,Astoria,2025-07-11,11,21.623629847898602
+Flavours,Prophet,3,Astoria,2025-07-12,12,21.61569115535568
+Flavours,Prophet,3,Astoria,2025-07-13,13,19.506850168826784
+Flavours,Prophet,3,Astoria,2025-07-14,14,23.632969810912027
+Flavours,Prophet,3,Astoria,2025-07-15,15,22.52573863941126
+Flavours,Prophet,3,Astoria,2025-07-16,16,21.091745324234246
+Flavours,Prophet,3,Astoria,2025-07-17,17,20.676763075755538
+Flavours,Prophet,3,Astoria,2025-07-18,18,22.064231549462146
+Flavours,Prophet,3,Astoria,2025-07-19,19,22.056292856919693
+Flavours,Prophet,3,Astoria,2025-07-20,20,19.947451870391795
+Flavours,Prophet,3,Astoria,2025-07-21,21,24.073571512478008
+Flavours,Prophet,3,Astoria,2025-07-22,22,22.966340340971477
+Flavours,Prophet,3,Astoria,2025-07-23,23,21.53234702580153
+Flavours,Prophet,3,Astoria,2025-07-24,24,21.117364777322752
+Flavours,Prophet,3,Astoria,2025-07-25,25,22.50483325102367
+Flavours,Prophet,3,Astoria,2025-07-26,26,22.49689455848371
+Flavours,Prophet,3,Astoria,2025-07-27,27,20.388053571958427
+Flavours,Prophet,3,Astoria,2025-07-28,28,24.514173214045176
+Flavours,Prophet,3,Astoria,2025-07-29,29,23.406942042535455
+Flavours,Prophet,3,Astoria,2025-07-30,30,21.972948727366017
+Flavours,Prophet,5,Lower Manhattan,2025-07-01,1,2.3590356210307997
+Flavours,Prophet,5,Lower Manhattan,2025-07-02,2,0.0
+Flavours,Prophet,5,Lower Manhattan,2025-07-03,3,1.9671867841540442
+Flavours,Prophet,5,Lower Manhattan,2025-07-04,4,0.0
+Flavours,Prophet,5,Lower Manhattan,2025-07-05,5,0.0
+Flavours,Prophet,5,Lower Manhattan,2025-07-06,6,0.0
+Flavours,Prophet,5,Lower Manhattan,2025-07-07,7,48.25891324521951
+Flavours,Prophet,5,Lower Manhattan,2025-07-08,8,52.81723047270528
+Flavours,Prophet,5,Lower Manhattan,2025-07-09,9,50.20039333248975
+Flavours,Prophet,5,Lower Manhattan,2025-07-10,10,52.83743299236306
+Flavours,Prophet,5,Lower Manhattan,2025-07-11,11,49.1966304931509
+Flavours,Prophet,5,Lower Manhattan,2025-07-12,12,51.05967050937089
+Flavours,Prophet,5,Lower Manhattan,2025-07-13,13,49.28271830565117
+Flavours,Prophet,5,Lower Manhattan,2025-07-14,14,49.6909299703979
+Flavours,Prophet,5,Lower Manhattan,2025-07-15,15,54.24924719789656
+Flavours,Prophet,5,Lower Manhattan,2025-07-16,16,51.63241005767641
+Flavours,Prophet,5,Lower Manhattan,2025-07-17,17,54.26944971755233
+Flavours,Prophet,5,Lower Manhattan,2025-07-18,18,50.62864721834055
+Flavours,Prophet,5,Lower Manhattan,2025-07-19,19,52.49168723455541
+Flavours,Prophet,5,Lower Manhattan,2025-07-20,20,50.71473503084198
+Flavours,Prophet,5,Lower Manhattan,2025-07-21,21,51.122946695584695
+Flavours,Prophet,5,Lower Manhattan,2025-07-22,22,55.6812639230791
+Flavours,Prophet,5,Lower Manhattan,2025-07-23,23,53.06442678286654
+Flavours,Prophet,5,Lower Manhattan,2025-07-24,24,55.70146644273908
+Flavours,Prophet,5,Lower Manhattan,2025-07-25,25,52.06066394353149
+Flavours,Prophet,5,Lower Manhattan,2025-07-26,26,53.923703959739925
+Flavours,Prophet,5,Lower Manhattan,2025-07-27,27,52.14675175601938
+Flavours,Prophet,5,Lower Manhattan,2025-07-28,28,52.55496342078379
+Flavours,Prophet,5,Lower Manhattan,2025-07-29,29,57.11328064827039
+Flavours,Prophet,5,Lower Manhattan,2025-07-30,30,54.49644350805314
+Flavours,Prophet,8,Hell's Kitchen,2025-07-01,1,0.08524104968211249
+Flavours,Prophet,8,Hell's Kitchen,2025-07-02,2,0.0
+Flavours,Prophet,8,Hell's Kitchen,2025-07-03,3,0.0
+Flavours,Prophet,8,Hell's Kitchen,2025-07-04,4,3.1730231892536125
+Flavours,Prophet,8,Hell's Kitchen,2025-07-05,5,0.0
+Flavours,Prophet,8,Hell's Kitchen,2025-07-06,6,0.0
+Flavours,Prophet,8,Hell's Kitchen,2025-07-07,7,36.90347248490593
+Flavours,Prophet,8,Hell's Kitchen,2025-07-08,8,36.418871667245085
+Flavours,Prophet,8,Hell's Kitchen,2025-07-09,9,35.79005858365627
+Flavours,Prophet,8,Hell's Kitchen,2025-07-10,10,35.319149103522335
+Flavours,Prophet,8,Hell's Kitchen,2025-07-11,11,39.868196011907855
+Flavours,Prophet,8,Hell's Kitchen,2025-07-12,12,35.322700131969015
+Flavours,Prophet,8,Hell's Kitchen,2025-07-13,13,35.84191984705083
+Flavours,Prophet,8,Hell's Kitchen,2025-07-14,14,37.74518821369416
+Flavours,Prophet,8,Hell's Kitchen,2025-07-15,15,37.260587396034644
+Flavours,Prophet,8,Hell's Kitchen,2025-07-16,16,36.63177431245028
+Flavours,Prophet,8,Hell's Kitchen,2025-07-17,17,36.16086483231973
+Flavours,Prophet,8,Hell's Kitchen,2025-07-18,18,40.70991174070041
+Flavours,Prophet,8,Hell's Kitchen,2025-07-19,19,36.16441586076114
+Flavours,Prophet,8,Hell's Kitchen,2025-07-20,20,36.6836355758431
+Flavours,Prophet,8,Hell's Kitchen,2025-07-21,21,38.58690394249104
+Flavours,Prophet,8,Hell's Kitchen,2025-07-22,22,38.102303124832716
+Flavours,Prophet,8,Hell's Kitchen,2025-07-23,23,37.47349004123824
+Flavours,Prophet,8,Hell's Kitchen,2025-07-24,24,37.00258056111469
+Flavours,Prophet,8,Hell's Kitchen,2025-07-25,25,41.55162746949438
+Flavours,Prophet,8,Hell's Kitchen,2025-07-26,26,37.006131589553256
+Flavours,Prophet,8,Hell's Kitchen,2025-07-27,27,37.52535130464355
+Flavours,Prophet,8,Hell's Kitchen,2025-07-28,28,39.428619671278646
+Flavours,Prophet,8,Hell's Kitchen,2025-07-29,29,38.944018853622275
+Flavours,Prophet,8,Hell's Kitchen,2025-07-30,30,38.31520577004138
