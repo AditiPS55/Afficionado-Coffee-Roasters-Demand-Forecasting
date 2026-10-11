@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
